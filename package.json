@@ -1,0 +1,15 @@
+{
+  "name": "forms-service",
+  "version": "1.0.0",
+  "description": "Сервис форм: менеджер собирает форму отклика, студент заполняет по ссылке",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test/smoke.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
